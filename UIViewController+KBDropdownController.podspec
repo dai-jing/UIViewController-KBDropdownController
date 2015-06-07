@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.platform   	 = :ios, "7.0"
   s.requires_arc = true
   s.source       = { 
-	:git => "https://github.com/dai-jing/UIViewController-KBDropdownController",
+	:git => "https://github.com/dai-jing/UIViewController-KBDropdownController.git",
 	:branch => "master",
 	:tag => s.version.to_s 
   }
