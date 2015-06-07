@@ -8,3 +8,7 @@ Simple UIViewController category to present custom dropdown controller.
 Present dropdown controller needs lots of works to deal with child view controller and animations. This UIViewController category make this simple to deal with.
 
 ## Screenshots
+![KBDropdownControllerDemo1](https://cloud.githubusercontent.com/assets/2702996/8025373/b6c1936a-0d86-11e5-8613-0e0ab75b2578.png)
+
+## CocoaPods - Try it yourself
+`pod 'UIViewController+KBDropdownController'`
